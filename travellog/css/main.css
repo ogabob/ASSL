@@ -1,0 +1,35 @@
+
+
+
+body{
+    
+   background: url(/images/sup.jpg) no-repeat center center fixed; 
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+    background-size: cover;
+    font-family: Futura, Avenir;
+    font-size:17px;
+    padding: 10px 20px;
+    margin: 5px;    
+    
+}
+
+
+
+
+
+body.lp {
+            
+           background: url(/images/lbg.jpg) no-repeat center center fixed; 
+          -webkit-background-size: cover;
+          -moz-background-size: cover;
+          -o-background-size: cover;
+           background-size: cover;
+            font-family: Futura, Avenir;
+            font-size:17px;
+            padding: 10px 20px;
+            margin: 5px;
+            
+            }
+
